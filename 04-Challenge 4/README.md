@@ -122,12 +122,8 @@ A successful result should show replies from Router0.
 
 Example:
 
-```text
-Reply from <Router0-IP-address>
-Reply from <Router0-IP-address>
-Reply from <Router0-IP-address>
-Reply from <Router0-IP-address>
-```
+
+![Broken Topology](topology3.png)
 
 ### Result
 
