@@ -2,8 +2,6 @@
 
 ## 🖥️ Topology
 
-**[SCREENSHOT — Replace this text diagram with an actual screenshot of the broken Packet Tracer topology.]**
-
 ![Broken Network Topology](topology1.png)
 
 ---
